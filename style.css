@@ -1,0 +1,20 @@
+.cell {
+    padding:0px;
+    margin:0px;
+    background-color:#6FFFD3;
+}
+.drawn {
+    background-color:black;
+}
+table {
+    border:2px solid #FF530D;
+    border-radius:5px;
+    padding:0px;
+    margin:auto;
+    margin-top:50px;
+    border-collapse:collapse;
+}
+.tileInt {
+    background-color:;
+}
+
